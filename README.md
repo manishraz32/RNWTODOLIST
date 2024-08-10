@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a  advance do list application. which I have created for a assignment is given by a organization
+This is a  advance to do list application. which I have created for a assignment is given by a organization.
 
 ## Features
 
